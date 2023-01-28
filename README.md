@@ -1,13 +1,6 @@
-<!--#
-[TITLE]=NFT preview card component
-[LINK]=https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub
-[URL_SOLUTION]=https://github.com/eibii/nft-preview-card-component-main/
-[URL_SITE]=https://eibii.github.io/nft-preview-card-component-main/
-$-->
+# Frontend Mentor - NFT preview card component
 
-# Frontend Mentor - [TITLE]
-
-This is a solution to the [[TITLE]]([LINK]).
+This is a solution to the [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub).
 
 ## Overview
 
@@ -17,8 +10,8 @@ This is a solution to the [[TITLE]]([LINK]).
 
 ### Links
 
-- [Solution URL:]([URL_SOLUTION])
-- [Live Site URL:]([URL_SITE])
+- [Solution URL:](https://github.com/eibii/nft-preview-card-component-main/)
+- [Live Site URL:](https://eibii.github.io/nft-preview-card-component-main/)
 
 ## My process
 
