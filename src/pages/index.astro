@@ -3,7 +3,7 @@ import Layout from "@layouts/Layout.astro";
 import CardContent from "@components/Card.vue";
 import type { Card } from "@types";
 let data: Card = {};
-const res = await fetch("http://localhost:3000/api/User.json");
+const res = await fetch(`${import.meta.env.SITE}/api/User.json`);
 if (res.status === 200) {
   data = await res.json();
 }
