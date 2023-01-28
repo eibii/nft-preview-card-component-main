@@ -1,9 +1,9 @@
----
+<!--#
 [TITLE]=NFT preview card component
 [LINK]=https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub
 [URL_SOLUTION]=https://github.com/eibii/nft-preview-card-component-main/
 [URL_SITE]=https://eibii.github.io/nft-preview-card-component-main/
----
+$-->
 
 # Frontend Mentor - [TITLE]
 
